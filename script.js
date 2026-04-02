@@ -46,36 +46,16 @@ const SITE_CONFIG = {
 // Easy placeholders for student names + links
 const STUDENTS = [
   {
-    name: "Student Name 1",
-    image: "",
+    name: "Arnab Patra",
+    image: "https://1drv.ms/i/c/58175EBE1493A92F/IQCRH_JIrfhuQpn-z-OkLNCoAR3J8V-Hnvo_0Dg1lY7wPDM?e=FvLEOv",
     department: "ECE",
     year: "2nd Year",
-    bio: "Focused on practical Python workflows and data-driven project development with a growing interest in ML engineering.",
+    bio: "Focused on practical Python workflows and data-driven project development with a growing interest in ML engineering.",\n "Built strong fundamentals in NumPy, Pandas, and model basics while exploring automation and applied AI use cases." \n "Interested in computer vision and intelligent systems, with a project-first learning approach and clean coding practice."
     github: "https://github.com/",
-    linkedin: "https://www.linkedin.com/",
+    linkedin: "www.linkedin.com/in/arnabpatra2005",
     cv: "https://drive.google.com/"
   },
-  {
-    name: "Student Name 2",
-    image: "",
-    department: "ECE",
-    year: "2nd Year",
-    bio: "Built strong fundamentals in NumPy, Pandas, and model basics while exploring automation and applied AI use cases.",
-    github: "https://github.com/",
-    linkedin: "https://www.linkedin.com/",
-    cv: "https://drive.google.com/"
-  },
-  {
-    name: "Student Name 3",
-    image: "",
-    department: "ECE",
-    year: "2nd Year",
-    bio: "Interested in computer vision and intelligent systems, with a project-first learning approach and clean coding practice.",
-    github: "https://github.com/",
-    linkedin: "https://www.linkedin.com/",
-    cv: "https://drive.google.com/"
-  }
-];
+  ];
 
 /* ==========================================
    Reusable Data Models (Duplicate Easily)
